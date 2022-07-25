@@ -1,0 +1,11 @@
+_______run________
+cd ur director
+pip install aiogram etc.
+python bot.py
+token bot in bot.py line 9
+_________disription______
+It's my first bot for random numbers
+_________what i do?______
+1) genertion numbers
+2) date and time
+3) ur ID profile
